@@ -1,4 +1,4 @@
-# <p align="center">Hola <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, soy Rubén, alias el Toro 🐂</p>
+# <p align="center">Hola <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, soy Rubén... me dicen "el Toro 🐂"</p>
 
 **!Bienvenidos a mi perfil!**
 
