@@ -2,7 +2,7 @@
 
 **!Bienvenidos a mi perfil!**
 
-<img alt="image header" src="https://imgur.com/Yr1n0Yu.jpg"/> 
+<img alt="image header" src="https://imgur.com/PKdhTbh.jpg"/> 
 
 ## ⚙️ Mis habilidades 💻
 
