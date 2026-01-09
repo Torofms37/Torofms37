@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hola <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="30px">, soy Rubén</h1>
-  <h2>alias "El Toro 🐂"</h2>
 
   <p>
     <b>Ingeniero de Software en formación | Creador de Contenido</b><br>
@@ -33,6 +32,7 @@ Para mantener el código limpio y escalable, utilizo las siguientes tecnologías
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Sui Move](https://img.shields.io/badge/Sui_Move-4CA2FF?style=for-the-badge&logo=sui&logoColor=white)
 
 #### ☁️ Nube & Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
