@@ -6,7 +6,7 @@
     Me apasiona el desarrollo web full-stack y la creación de soluciones digitales.
   </p>
 
-  <a href="https://www.youtube.com/@ElSinMetodos">
+  <a href="https://www.youtube.com/@ruh3ndev">
     <img src="https://img.shields.io/badge/YouTube-Ver_Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
