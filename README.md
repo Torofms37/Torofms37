@@ -13,7 +13,7 @@
 
 <hr/>
 
-### 🛠️ ArsenTech (Mis Habilidades)
+### 🛠️ Mis Habilidades
 
 Para mantener el código limpio y escalable, utilizo las siguientes tecnologías:
 
