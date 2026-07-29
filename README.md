@@ -30,17 +30,3 @@
 </div>
 
 ---
-
-### 🚀 Experiencia Destacada
-
-* **Full-Stack Developer (React Native)** en **LatGobLab** *(2025 - Presente)*: Desarrollo de aplicaciones móviles multiplataforma (iOS/Android), gestión de bases de datos relacionales con PostgreSQL/PostGIS y sincronización en tiempo real mediante Supabase[cite: 1]. Estandarización de entornos mediante Docker[cite: 1].
-* **Front-End Web Developer** en **Obsidian** *(2024 - 2025)*: Creación de soluciones web interactivas para comunidades de alto tráfico y simuladores basados en web[cite: 1].
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</div>
