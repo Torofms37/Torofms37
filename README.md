@@ -5,7 +5,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-000?style=flat&logo=todoist&logoColor=white)](https://torofms37.github.io/PortafolioPr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eg.rubenaragon@gmail.com)
 
 </div>
